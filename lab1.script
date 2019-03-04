@@ -1,0 +1,20 @@
+Script started on 2019年03月 4日 下午 10:18:24
+]0;~
+[32mduck0@DESKTOP-C5LJFR0 [33m~[0m
+$ whoami; pwd
+duck0
+/home/duck0
+]0;~
+[32mduck0@DESKTOP-C5LJFR0 [33m~[0m
+$ git config -l
+[?1h=user.email=duck00036@gmail.com[m
+user.name=duck00036[m
+[K[?1l>]0;~
+[32mduck0@DESKTOP-C5LJFR0 [33m~[0m
+$ git clone https://github.com/duck00036/lab1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;~
+[32mduck0@DESKTOP-C5LJFR0 [33m~[0m
+$ exit
+
+Script done on 2019年03月 4日 下午 10:19:39
